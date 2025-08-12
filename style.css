@@ -1,103 +1,50 @@
-/* --------------------------- */
-
-.navborder {
-    border-bottom: 3px solid #6bc449;
-}
-
-.nav-link:hover {
-    color: #6bc449 !important;
-}
-
-.para {
-    width: 85%;
-}
-
-/* -- */
 * {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-
 .tg {
     color: #6bc449;
 }
-
 .bg {
     background-color: #6bc449;
 }
-
 .bl {
     background-color: #f8f8fb;
 }
-
-.mobile1 {
+/* --------------------------- */
+.navborder {
+    border-bottom: 3px solid #6bc449;
+}
+.nav-link:hover {
+    color: #6bc449 !important;
+}
+.para {
+    width: 85%;
+}
+.m1 {
     position: relative;
     left: 45px;
     height: 390px;
     z-index: 1;
 }
-
-.mobile2 {
+.m2 {
     position: relative;
     right: 105px;
     height: 400px;
 }
-
-
-
-/* -- */
+.bg-image {
+    background-image: url('images/banner-new.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
 @media (max-width:786px) {
     .hhh {
         text-align: center;
         flex-direction: column;
     }
-
     .para {
         width: 100%;
     }
-}
-
-@media (max-width:1024px) {}
-
-/* .button1 {
-    background-color: #6bc449;
-    width: 20%;
-    margin-bottom: 20px;
-    height: 36px;
-}
-
-.footer1 {
-    background-color: #000;
-}
-
-.color1 {
-    color: #6bc449;
-}
-
-.bg-image {
-    background-image: url('images/banner-new.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: 100vh;
-} */
-
-.button1 {
-    background-color: #6bc449;
-    width: 20%;
-    margin-bottom: 20px;
-    height: 36px;
-}
-
-.bg-color {
-    color: #6bc449;
-}
-
-.bg-image {
-    background-image: url('images/banner-new.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: 100vh;
 }
