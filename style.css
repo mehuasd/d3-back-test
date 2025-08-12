@@ -1,0 +1,39 @@
+/* --------------------------- */
+
+
+body {
+    /* background-color: red; */
+    /* background: #000; */
+}
+.bcolor {
+    border-bottom: 3px solid #6bc449;
+}
+.nav-link:hover{
+    color: #6bc449 !important;
+}
+
+
+
+
+
+@media (max-width:786px) {
+}
+
+@media (max-width:1024px) {
+    
+}
+.button1{
+    background-color: #6bc449;
+    width: 20%;
+    margin-bottom: 20px;
+    height: 36px;
+}
+.footer1{
+    background-color: #000;
+}
+.color1{
+    color: #6bc449;
+}
+.bg-image{
+    background-image: url('');
+}
