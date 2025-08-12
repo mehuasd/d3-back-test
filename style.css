@@ -1,39 +1,37 @@
 /* --------------------------- */
 
-
-body {
-    /* background-color: red; */
-    /* background: #000; */
-}
-.bcolor {
+.navborder {
     border-bottom: 3px solid #6bc449;
 }
-.nav-link:hover{
+
+.nav-link:hover {
     color: #6bc449 !important;
 }
 
+@media (max-width:786px) {}
 
+@media (max-width:1024px) {}
 
-
-
-@media (max-width:786px) {
-}
-
-@media (max-width:1024px) {
-    
-}
-.button1{
+.button1 {
     background-color: #6bc449;
     width: 20%;
     margin-bottom: 20px;
     height: 36px;
 }
-.footer1{
+
+.footer1 {
     background-color: #000;
 }
-.color1{
+
+.color1 {
     color: #6bc449;
 }
-.bg-image{
-    background-image: url('');
+
+.bg-image {
+    background-image: url('images/banner-new.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
 }
