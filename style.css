@@ -22,13 +22,13 @@
 }
 .m1 {
     position: relative;
-    left: 45px;
+    /* left: 30px; */
     height: 390px;
     z-index: 1;
 }
 .m2 {
     position: relative;
-    right: 105px;
+    right: 125px;
     height: 400px;
 }
 .bg-image {
