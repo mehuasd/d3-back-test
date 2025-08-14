@@ -1,4 +1,4 @@
-# SeedKaro Replica
-
-Click here to see website online
-https://mehuasd.github.io/d3-back-test/
+# Seeedkaro-replica
+A replica of https://seedkaro-sufiyan-shaikh.netlify.app/
+# Click here to see live website 
+https://mehuasd.github.io/ap4-seeedkaro-replica/
